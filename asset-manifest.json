@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meshv-p/mui.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/meshv-p/mui.git/static/js/main.95b3402c.chunk.js",
+    "main.js.map": "/meshv-p/mui.git/static/js/main.95b3402c.chunk.js.map",
+    "runtime-main.js": "/meshv-p/mui.git/static/js/runtime-main.0ff34c27.js",
+    "runtime-main.js.map": "/meshv-p/mui.git/static/js/runtime-main.0ff34c27.js.map",
+    "static/js/2.f359d9e1.chunk.js": "/meshv-p/mui.git/static/js/2.f359d9e1.chunk.js",
+    "static/js/2.f359d9e1.chunk.js.map": "/meshv-p/mui.git/static/js/2.f359d9e1.chunk.js.map",
+    "static/js/3.09a15c3b.chunk.js": "/meshv-p/mui.git/static/js/3.09a15c3b.chunk.js",
+    "static/js/3.09a15c3b.chunk.js.map": "/meshv-p/mui.git/static/js/3.09a15c3b.chunk.js.map",
+    "index.html": "/meshv-p/mui.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/meshv-p/mui.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f359d9e1.chunk.js.LICENSE.txt": "/meshv-p/mui.git/static/js/2.f359d9e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ff34c27.js",
+    "static/js/2.f359d9e1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.95b3402c.chunk.js"
+  ]
+}
